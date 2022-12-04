@@ -1,7 +1,7 @@
 import 'package:tech387almir/models/patient.dart';
 
 // ignore: constant_identifier_names
-final DUMMY_DATA = [
+final List<Patient> DUMMY_DATA = [
   Patient(
     id: '1',
     name: 'Alen K.',

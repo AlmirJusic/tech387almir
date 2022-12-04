@@ -10,6 +10,6 @@ Za backhand sam radio Firebase, tacnije iskoristio sam firebase authentifikaciju
  Password: Pass123!
 ```
 ```
- Username: test@gmail.com
+ Email: test@gmail.com
  Password: test123
 ```

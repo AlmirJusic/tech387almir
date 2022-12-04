@@ -1,6 +1,6 @@
 # tech387almir
 
-Za backhand sam radio Firebase, tacnije realtime database.
+Za backhand sam radio Firebase, tacnije iskoristio sam firebase authentifikaciju.
 
 
 
